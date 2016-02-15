@@ -102,7 +102,7 @@ and `.css` files.
 
 ## <i class="fa fa-file-code-o"></i> Why text files?
 
-Text files are **versitile**.
+Text files are **versatile**.
 
 - Store your data (`.csv`), store your analysis code (`.R`), store your
 presentation markup (`.Rmd`, `.tex`, `.bib`).
